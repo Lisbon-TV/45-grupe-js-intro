@@ -1,0 +1,17 @@
+{
+  "name": "45-grupe-js-intro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "console": "nodemon ./js/01-console.js",
+    "dev": ".js/01-console.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Lisbon",
+  "license": "MIT",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
